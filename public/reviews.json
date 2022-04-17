@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "name": "Asfe Al Arafath",
+        "body": "A first-class gaming experience comes naturally to Asus’ top-shelf ROG Strix Scar 17 gaming laptop, a 17.3-incher packed with an Intel CPU and Nvidia GeForce RTX 3000-series graphics.",
+        "ratings": 4,
+        "image": "https://www.pngall.com/wp-content/uploads/12/Avatar-Profile-Vector-PNG-Cutout.png"
+    },
+    {
+        "id": 2,
+        "name": " Sajibr Rahman",
+        "body": "The Asus ROG Flow Z13 gaming tablet is impressive on a design and engineering level, but its high price and niche appeal make it a tough sell versus equally portable premium gaming laptops.",
+        "ratings": 5,
+        "image": "https://www.pngall.com/wp-content/uploads/12/Avatar-Profile-Vector-PNG-Cutout.png"
+    },
+    {
+        "id": 3,
+        "name": "Abu Sayem",
+        "body": "The Asus ROG Zephyrus G14 laptop offers blazing performance for gaming and everything else, and pairs it with awesome battery life and great portability.",
+        "ratings": 4.5,
+        "image": "https://www.pngall.com/wp-content/uploads/12/Avatar-Profile-Vector-PNG-Cutout.png"
+    },
+    {
+        "id": 4,
+        "name": "Munna Ahmed",
+        "body": "Asus' Vivobook Pro 16X OLED is an attractive package all around, thanks to a 4K OLED display, a speedy Ryzen 9 CPU, long battery life, and a standout touch dial tool.",
+        "ratings": 5,
+        "image": "https://www.pngall.com/wp-content/uploads/12/Avatar-Profile-Vector-PNG-Cutout.png"
+    },
+    {
+        "id": 5,
+        "name": "Asfe Al Arafath",
+        "body": "Asus' Vivobook Pro 16X OLED is an attractive package all around, thanks to a 4K OLED display, a speedy Ryzen 9 CPU, long battery life, and a standout touch dial tool.",
+        "ratings": 4,
+        "image": "https://www.pngall.com/wp-content/uploads/12/Avatar-Profile-Vector-PNG-Cutout.png"
+    },
+    {
+        "id": 6,
+        "name": "Taufiq Hasnain",
+        "body": "The Asus Chromebook Flip CM3 is an excellent 2-in-1 convertible Chrome OS laptop with speedy performance, a reliable touchscreen, and an included stylus.",
+        "ratings": 3,
+        "image": "https://www.pngall.com/wp-content/uploads/12/Avatar-Profile-Vector-PNG-Cutout.png"
+    },
+    {
+        "id": 7,
+        "name": "Tashrif Rahat",
+        "body": "The Asus ROG Flow Z13 gaming tablet is impressive on a design and engineering level, but its high price and niche appeal make it a tough sell versus equally portable premium gaming laptops.",
+        "ratings": 5,
+        "image": "https://www.pngall.com/wp-content/uploads/12/Avatar-Profile-Vector-PNG-Cutout.png"
+    },
+    {
+        "id": 8,
+        "name": "Asfe Al Arafath",
+        "body": "The Asus ROG Zephyrus G14 laptop offers blazing performance for gaming and everything else, and pairs it with awesome battery life and great portability.",
+        "ratings": 4,
+        "image": "https://www.pngall.com/wp-content/uploads/12/Avatar-Profile-Vector-PNG-Cutout.png"
+    },
+    {
+        "id": 9,
+        "name": "Billal hossain",
+        "body": "The Asus ROG Flow Z13 gaming tablet is impressive on a design and engineering level, but its high price and niche appeal make it a tough sell versus equally portable premium gaming laptops.",
+        "ratings": 5,
+        "image": "https://www.pngall.com/wp-content/uploads/12/Avatar-Profile-Vector-PNG-Cutout.png"
+    }
+]

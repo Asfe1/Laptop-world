@@ -1,0 +1,15 @@
+#con {
+    padding: 60px 20px;
+}
+
+#con h1 {
+    color: rgb(236, 188, 16);
+    font-size: 70px;
+    font-weight: 900;
+}
+
+#con p {
+    color: rgb(189, 194, 198);
+    font-size: 20px;
+    font-weight: 900;
+}
